@@ -1,1 +1,12 @@
+
+
 @import "tailwindcss";
+@theme{
+    --color-drk1:#111111;
+    --color-drk2:#414040;
+    --color-drk3:#707070;
+    --color-drk4:#A0A0A0;
+    --color-drk5:#CFCFCF;
+    --color-drk6:#E7E7E7;
+    --color-drk7:#F3F3F3;
+}
